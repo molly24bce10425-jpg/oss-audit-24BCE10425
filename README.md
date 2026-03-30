@@ -8,8 +8,8 @@
 
 | Field                  | Details              |
 |------------------------|----------------------|
-| **Student Name**       | Utkarsh Sharma       |
-| **Registration Number**| 24BCY10080           |
+| **Student Name**       | MOLLY PAREEK      |
+| **Registration Number**| 24BCE10425         |
 | **Course**             | Open Source Software |
 
 ---
