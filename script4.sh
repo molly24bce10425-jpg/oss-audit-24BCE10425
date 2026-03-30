@@ -2,7 +2,7 @@
 
 # ==========================================================
 # Script 4: Log File Analyzer
-# Author: Utkarsh Sharma
+# Author: molly pareek
 # Course: Open Source Software
 # Description: Counts keyword occurrences in a log file
 # ==========================================================
