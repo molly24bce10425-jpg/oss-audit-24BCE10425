@@ -2,7 +2,7 @@
 
 # ==========================================================
 # Script 5: Open Source Manifesto Generator
-# Author: Utkarsh Sharma
+# Author: molly pareek
 # Course: Open Source Software
 # Description: Generates a personalized open-source manifesto
 # ==========================================================
