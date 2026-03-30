@@ -8,7 +8,7 @@
 # ==========================================================
 
 # ----------- User-defined Variables ------------------------
-STUDENT_NAME="Utkarsh Sharma"        # Stores student name
+STUDENT_NAME="MOLLY PAREEK"        # Stores student name
 SOFTWARE_CHOICE="Apache HTTP Server" # Stores chosen software
 
 # ----------- System Information Collection -----------------
